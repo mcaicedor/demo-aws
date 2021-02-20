@@ -11,7 +11,7 @@ public class HelloController {
 	
 	@GetMapping
 	public String index() {
-		return "Hello from Spring Boot and AWS";
+		return "Hello from Spring Boot and AWS Clase de DevOps";
 	}
 	
 	@GetMapping("/{name}")
